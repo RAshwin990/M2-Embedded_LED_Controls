@@ -1,8 +1,8 @@
 /*
  * main.c
  *
- * Created: 30-11-2021 21:10:00
- * Author : Gulshan J Dharmaraj
+ * Created: 01-12-2021 12:10:10
+ * Author : Ashwin Ramesh
  */ 
 
 #define F_CPU 1000000UL
@@ -10,7 +10,7 @@
 #include <util/delay.h>
 
 
-#include "switch.h"
+#include "led_control.h"
 
 
 void peripheral_init(void)
@@ -30,11 +30,11 @@ int main(void)
 		if (!(PINB&(1<<PINB0)))
 		{
 			
-			switch_on();
+			led_on();
 		}
 		else
 		{
-			switch_off();
+			led_off();
 		}
 
 	}
