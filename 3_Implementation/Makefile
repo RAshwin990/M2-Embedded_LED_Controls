@@ -4,8 +4,8 @@ BUILD_DIR = Build
 
 # All Source code files
 SRC = main.c\
-src/switch_on.c\
-src/switch_off.c\
+src/led_on.c\
+src/led_off.c\
 
 # All header file paths
 INC = -I inc
