@@ -8,4 +8,4 @@
 
 ![Code Quality Score](https://api.codiga.io/project/30174/score/svg)
 
-![Code Quality Score]lasl
+![Code Quality Score](https://api.codiga.io/project/30174/status/svg)
