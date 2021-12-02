@@ -1,6 +1,6 @@
 ## IDLE State:
 
-![image](https://user-images.githubusercontent.com/81633037/144367173-711b625a-f26c-4239-b562-75d71a7c3136.png)
+![image](https://user-images.githubusercontent.com/81633037/144376442-0ac985da-ef85-44e8-ab3f-1b6d3b287307.png)
 
 ## Switch is ON:
 
