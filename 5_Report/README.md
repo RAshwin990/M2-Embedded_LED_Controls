@@ -84,7 +84,7 @@
 
 ## Simulation:
 
-![image](https://user-images.githubusercontent.com/81633037/144367173-711b625a-f26c-4239-b562-75d71a7c3136.png)
+![image](https://user-images.githubusercontent.com/81633037/144375820-27f1ec69-1b3b-4f90-b802-7618c88f440d.png)
 
 # Implementation
 ## Folder Structure
